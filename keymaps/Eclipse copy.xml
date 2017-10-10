@@ -15,13 +15,18 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark8" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="Print" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
