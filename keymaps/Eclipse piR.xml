@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse copy" parent="Eclipse">
+<keymap version="1" name="Eclipse piR" parent="Eclipse">
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -15,6 +15,7 @@
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
+  <action id="ExternalJavaDoc" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark8" />
   <action id="NextOccurence">
@@ -27,7 +28,17 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Print" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
+  <action id="StopBackgroundProcesses" />
+  <action id="ToggleBookmark">
+    <keyboard-shortcut first-keystroke="shift ctrl f2" />
+  </action>
+  <action id="ToggleBookmarkWithMnemonic">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f2" />
   </action>
 </keymap>
