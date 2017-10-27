@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="itop-specials-trunk" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,7 +15,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>t</mask>
       <mask>tr</mask>
       <mask>tru</mask>
@@ -28,6 +28,7 @@
       <mask>trunk/**.php</mask>
       <mask>trunk/*/*.php</mask>
       <mask>*.xml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
