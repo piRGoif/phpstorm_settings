@@ -7,9 +7,8 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="itop-specials-trunk" />
-    <option name="FILE_MASK" value="module*.php" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>t</mask>
@@ -24,8 +23,6 @@
       <mask>trunk/*.php</mask>
       <mask>trunk/**.php</mask>
       <mask>trunk/*/*.php</mask>
-      <mask>*.php</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>modeul</mask>
@@ -39,6 +36,9 @@
       <mask>module*.p</mask>
       <mask>module*.ph</mask>
       <mask>module*.php</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
