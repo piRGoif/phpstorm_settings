@@ -1,18 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="itop-specials-trunk" />
+    <option name="defaultScopeName" value="itop-specials-trunk" />
     <option name="regularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="itop-specials-trunk" />
+    <option name="FILE_MASK" value="module*.php" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -32,6 +28,17 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>modeul</mask>
+      <mask>modeu</mask>
+      <mask>mode</mask>
+      <mask>mod</mask>
+      <mask>modul</mask>
+      <mask>module</mask>
+      <mask>module*</mask>
+      <mask>module*.</mask>
+      <mask>module*.p</mask>
+      <mask>module*.ph</mask>
+      <mask>module*.php</mask>
     </recentFileMasks>
   </component>
 </application>
