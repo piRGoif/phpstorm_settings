@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="itop-specials-trunk" />
     <option name="defaultScopeName" value="itop-specials-trunk" />
+    <option name="localCaseSensitive" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="itop-specials-trunk" />
     <recentFileMasks>
       <mask>*.css</mask>
