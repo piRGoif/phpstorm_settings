@@ -14,12 +14,17 @@
   <action id="DatabaseView.CopyDdlAction" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
+  <action id="EditorScrollToCenter" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoBookmark8" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
@@ -38,6 +43,7 @@
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="Print" />
+  <action id="ScrollTreeToCenter" />
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f2" />
   </action>
@@ -52,5 +58,8 @@
   </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift ctrl f2" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
