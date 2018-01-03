@@ -6,7 +6,6 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>t</mask>
       <mask>tr</mask>
@@ -20,8 +19,6 @@
       <mask>trunk/*.php</mask>
       <mask>trunk/**.php</mask>
       <mask>trunk/*/*.php</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>modeul</mask>
       <mask>modeu</mask>
       <mask>mode</mask>
@@ -33,6 +30,9 @@
       <mask>module*.p</mask>
       <mask>module*.ph</mask>
       <mask>module*.php</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
