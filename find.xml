@@ -1,23 +1,19 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="itop-specials-trunk" />
+    <option name="defaultScopeName" value="itop-specials-trunk" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="itop-specials-trunk" />
+    <option name="FILE_MASK" value="module*" />
     <recentFileMasks>
-      <mask>trunk/*.</mask>
-      <mask>trunk/*.p</mask>
       <mask>trunk/*.php</mask>
       <mask>trunk/**.php</mask>
       <mask>trunk/*/*.php</mask>
       <mask>modeul</mask>
       <mask>modeu</mask>
       <mask>mode</mask>
-      <mask>mod</mask>
       <mask>modul</mask>
-      <mask>module</mask>
-      <mask>module*</mask>
       <mask>module*.</mask>
       <mask>module*.p</mask>
       <mask>module*.ph</mask>
@@ -36,6 +32,11 @@
       <mask>excl</mask>
       <mask>exclude</mask>
       <mask>.exclude</mask>
+      <mask>m</mask>
+      <mask>mo</mask>
+      <mask>mod</mask>
+      <mask>module</mask>
+      <mask>module*</mask>
     </recentFileMasks>
   </component>
 </application>
