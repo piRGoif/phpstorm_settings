@@ -6,11 +6,6 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>tru</mask>
-      <mask>trun</mask>
-      <mask>trunk</mask>
-      <mask>trunk/</mask>
-      <mask>trunk/*</mask>
       <mask>trunk/*.</mask>
       <mask>trunk/*.p</mask>
       <mask>trunk/*.php</mask>
@@ -36,6 +31,11 @@
       <mask>*.php*.x</mask>
       <mask>*.php*.xml</mask>
       <mask>*.xml</mask>
+      <mask>e</mask>
+      <mask>ex</mask>
+      <mask>excl</mask>
+      <mask>exclude</mask>
+      <mask>.exclude</mask>
     </recentFileMasks>
   </component>
 </application>
