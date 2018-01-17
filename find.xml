@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="itop-specials-trunk" />
-    <option name="defaultScopeName" value="itop-specials-trunk" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="itop-specials-trunk" />
-    <option name="FILE_MASK" value="module*" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>trunk/*.php</mask>
       <mask>trunk/**.php</mask>
