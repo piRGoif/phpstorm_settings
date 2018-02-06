@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\core\cmdbsource.class.inc.php [iTop]'" />
-    <option name="defaultScopeName" value="File '...\core\cmdbsource.class.inc.php [iTop]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\core\cmdbsource.class.inc.php [iTop]'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>trunk/*.php</mask>
       <mask>trunk/**.php</mask>
