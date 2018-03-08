@@ -5,6 +5,14 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl 6" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+    <keyboard-shortcut first-keystroke="ctrl alt 6" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -20,6 +28,7 @@
   </action>
   <action id="ExternalJavaDoc" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoBookmark6" />
   <action id="GotoBookmark8" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
