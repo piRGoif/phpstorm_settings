@@ -15,6 +15,7 @@
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
+              <option value="com.intellij.database.diff.SchemaDiffTool" />
             </list>
           </option>
         </PlaceSettings>
@@ -32,6 +33,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
           <option name="SHOW_INDENT_LINES" value="true" />
           <option name="USE_SOFT_WRAPS" value="true" />
