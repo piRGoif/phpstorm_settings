@@ -39,5 +39,8 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="GotoBookmark6" />
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="ToggleBookmark6" />
 </keymap>
