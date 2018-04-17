@@ -26,6 +26,7 @@
   <action id="DatabaseView.CopyDdlAction" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
+  <action id="EditorScrollToCenter" />
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
@@ -39,9 +40,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="GotoBookmark6" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
+  <action id="ScrollTreeToCenter" />
   <action id="Stop" />
   <action id="StopBackgroundProcesses" />
   <action id="ToggleBookmark">
@@ -52,5 +58,8 @@
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="shift ctrl alt f11" />
     <keyboard-shortcut first-keystroke="shift ctrl f2" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
 </keymap>
