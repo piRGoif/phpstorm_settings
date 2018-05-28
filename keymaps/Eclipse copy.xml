@@ -56,6 +56,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
   <action id="ScrollTreeToCenter" />
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+  </action>
   <action id="Stop" />
   <action id="StopBackgroundProcesses" />
   <action id="ToggleBookmark">
