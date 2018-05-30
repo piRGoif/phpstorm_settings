@@ -48,6 +48,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
   <action id="GotoBookmark6" />
+  <action id="GotoBookmark8" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
@@ -57,6 +58,9 @@
   <action id="ScrollTreeToCenter" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="context_menu" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
   <action id="Stop" />
   <action id="StopBackgroundProcesses" />
