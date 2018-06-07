@@ -1,5 +1,14 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="defaultBackground" value="" />
+    <option name="version" value="2.2.3.1" />
+    <option name="selectedTheme" value="MONOKAI" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="616161" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="tabOpacity" value="25" />
   </component>
 </application>
