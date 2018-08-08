@@ -55,6 +55,12 @@
   </action>
   <action id="GotoBookmark6" />
   <action id="GotoBookmark8" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>

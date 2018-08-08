@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File 'C:\Dev\Code\_tortoise\itop-specials_tortoise\features\itop-global-requests-mgmt\trunk\global-request-brick\globalrequestbrickrouter.class.inc.php [itop-specials]'" />
+    <option name="defaultScopeName" value="File 'C:\Dev\Code\_tortoise\itop-specials_tortoise\features\itop-global-requests-mgmt\trunk\global-request-brick\globalrequestbrickrouter.class.inc.php [itop-specials]'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Dev\Code\_tortoise\itop-specials_tortoise\features\itop-global-requests-mgmt\trunk\global-request-brick\globalrequestbrickrouter.class.inc.php [itop-specials]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
