@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="ff1ad44e-5423-4802-8fe7-26b6e34a27f0" name="Wamp local" url="http://localhost">
-        <fileTransfer port="0" mountedRoot="C:\Dev\wamp64\www" accessType="MOUNT" />
-      </webServer>
-    </option>
-  </component>
-</application>
