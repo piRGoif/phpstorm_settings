@@ -1,0 +1,9 @@
+<application>
+  <component name="XPathView.XPathViewPlugin">
+    <option name="SEARCH_SCOPE">
+      <SearchScope scope-name="Open Files" type="CUSTOM">
+        <moduleName>iTop SF</moduleName>
+      </SearchScope>
+    </option>
+  </component>
+</application>
