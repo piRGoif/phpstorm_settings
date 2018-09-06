@@ -15,12 +15,6 @@
       <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PhpListenDebugAction" is_action="true" action_type="-1" position="4">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
@@ -33,18 +27,18 @@
       <path value="Tasks toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="NavBarToolBarOthers" is_group="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PhpListenDebugAction" is_action="true" action_type="1" position="0">
+    <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="3">
+    <group value="NavBarToolBarOthers" is_group="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Rebase" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
       <path value="NavBarVcsGroup" />
@@ -54,6 +48,13 @@
     <group value="ToolbarRunGroup" is_group="true" action_type="1" position="4">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Vcs.Push" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <path value="NavBarVcsGroup" />
+      <path value="VcsNavBarToobarActions" />
       <option name="myInitialPosition" value="-1" />
     </group>
   </component>
