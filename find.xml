@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,8 +14,8 @@
     <mask>*.mxml</mask>
     <mask>model.*.php</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
