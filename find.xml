@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="iTop code" />
+    <option name="FILE_MASK" value="datamodel*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,5 +18,6 @@
     <mask>*.js</mask>
     <mask>license.*.xml</mask>
     <mask>*.xml</mask>
+    <mask>datamodel*</mask>
   </component>
 </application>
