@@ -1,4 +1,7 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -33,6 +36,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="EditorCompleteStatement" />
   <action id="EditorScrollToCenter" />
   <action id="EditorStartNewLineBefore">
@@ -64,7 +75,16 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="IntroduceParameter" />
   <action id="MethodHierarchy" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -72,6 +92,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="ScrollTreeToCenter" />
+  <action id="ShowContent" />
   <action id="ShowPopupMenu">
     <keyboard-shortcut first-keystroke="context_menu" />
   </action>
