@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="a5e3701d-8ee8-4ed3-b43c-caccf1459e77" name="piRGoif">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
     <option name="CLONE_GIT_USING_SSH" value="true" />
