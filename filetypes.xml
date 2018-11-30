@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
+      <mapping pattern=".gitflow" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
