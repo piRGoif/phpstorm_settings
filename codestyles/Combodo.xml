@@ -6,7 +6,7 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,body,thead,tbody,tfoot,style,script,head" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -22,8 +22,8 @@
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
   <XML>
-    <option name="XML_KEEP_WHITESPACES" value="true" />
     <option name="XML_TEXT_WRAP" value="0" />
+    <option name="XML_KEEP_LINE_BREAKS" value="false" />
     <option name="XML_KEEP_WHITE_SPACES_INSIDE_CDATA" value="true" />
   </XML>
   <codeStyleSettings language="JavaScript">
