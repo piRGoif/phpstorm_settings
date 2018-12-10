@@ -64,6 +64,7 @@
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoBookmark6" />
   <action id="GotoBookmark8" />
   <action id="GotoNextError">
@@ -72,6 +73,7 @@
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
@@ -85,8 +87,14 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextOccurence">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="PreviousOccurence">
+    <keyboard-shortcut first-keystroke="shift ctrl alt k" />
   </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
