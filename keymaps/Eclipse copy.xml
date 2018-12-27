@@ -67,6 +67,8 @@
   <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoBookmark6" />
   <action id="GotoBookmark8" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
@@ -78,7 +80,9 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="IntroduceParameter" />
-  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
