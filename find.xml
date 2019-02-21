@@ -16,10 +16,10 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>license.*.xml</mask>
-    <mask>*.xml</mask>
     <mask>datamodel*</mask>
     <mask>module.*</mask>
     <mask>zh.*</mask>
     <mask>zh*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
