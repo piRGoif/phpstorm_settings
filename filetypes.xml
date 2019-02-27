@@ -5,6 +5,7 @@
       <mapping pattern=".gitbugtraq" type="PLAIN_TEXT" />
       <mapping pattern=".gitflow" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="eml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
