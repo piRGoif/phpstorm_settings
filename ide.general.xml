@@ -17,6 +17,5 @@
     <entry key="ide.tooltip.initialDelay" value="574" />
     <entry key="editor.transparent.scrollbar" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
-    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
