@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="module*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,5 +22,6 @@
     <mask>zh.*</mask>
     <mask>zh*</mask>
     <mask>*.xml</mask>
+    <mask>module*.php</mask>
   </component>
 </application>
