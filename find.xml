@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="it.*.php" />
+    <option name="FILE_MASK" value="pt_br.*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,5 +25,6 @@
     <mask>*.xml</mask>
     <mask>en.*.php</mask>
     <mask>it.*.php</mask>
+    <mask>pt_br.*.php</mask>
   </component>
 </application>
