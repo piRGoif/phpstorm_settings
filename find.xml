@@ -25,5 +25,6 @@
     <mask>en.*.php</mask>
     <mask>it.*.php</mask>
     <mask>pt_br.*.php</mask>
+    <mask>*.dict*.php</mask>
   </component>
 </application>
