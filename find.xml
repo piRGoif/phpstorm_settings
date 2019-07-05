@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,7 +13,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>model.*.php</mask>
-    <mask>*.php</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>license.*.xml</mask>
@@ -26,5 +26,6 @@
     <mask>it.*.php</mask>
     <mask>pt_br.*.php</mask>
     <mask>*.dict*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
