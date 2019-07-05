@@ -1,8 +1,8 @@
 <application>
   <component name="XPathView.XPathViewPlugin">
     <option name="SEARCH_SCOPE">
-      <SearchScope scope-name="Open Files" type="CUSTOM">
-        <moduleName>itop-dev</moduleName>
+      <SearchScope scope-name="Current File" type="CUSTOM">
+        <moduleName>recia</moduleName>
       </SearchScope>
     </option>
   </component>
