@@ -6,6 +6,7 @@
       <mapping pattern=".gitflow" type="PLAIN_TEXT" />
       <mapping pattern="combodo-cloud-client2" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="eml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
