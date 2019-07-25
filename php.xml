@@ -8,7 +8,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="157e075c-ca8d-480b-89e5-b36103539a0f" name="PHP 5.6" home="C:\Dev\wamp64\bin\php\php5.6.31\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\Dev\wamp64\bin\php\php5.6.31\zend_ext\php_xdebug-2.5.5-5.6-vc11-x86_64.dll" />
-      <interpreter id="4892d98c-8ff8-4a0d-9d84-f44603ece181" name="PHP 7.1" home="C:\Dev\wamp64\bin\php\php7.1.28\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4892d98c-8ff8-4a0d-9d84-f44603ece181" name="PHP 7.1" home="C:\Dev\wamp64\bin\php\php7.1.28\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\Dev\wamp64\bin\php\php7.1.28\zend_ext\php_xdebug-2.6.0-7.1-vc14-x86_64.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
