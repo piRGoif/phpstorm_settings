@@ -14,13 +14,13 @@
     <option name="useMaterialFont" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="tabOpacity" value="25" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="20" />
     <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="3ec568e0:1687f256bf9:-7fff" />
-    <option name="version" value="3.10.0" />
+    <option name="version" value="4.1" />
     <option name="tabHighlightPosition" value="Top-Bottom" />
   </component>
 </application>
