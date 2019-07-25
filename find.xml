@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="iTop code" />
-    <option name="defaultScopeName" value="iTop code" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="iTop code" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*EXCLUDE*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -26,5 +27,6 @@
     <mask>*.dict*.php</mask>
     <mask>*.php</mask>
     <mask>*.css</mask>
+    <mask>*EXCLUDE*</mask>
   </component>
 </application>
