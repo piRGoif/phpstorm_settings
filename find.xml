@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="iTop code" />
-    <option name="defaultScopeName" value="iTop code" />
+    <option name="customScope" value="File '...\synchro\synchrodatasource.class.inc.php [itop-dev]'" />
+    <option name="defaultScopeName" value="File '...\synchro\synchrodatasource.class.inc.php [itop-dev]'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="iTop code" />
+    <option name="SEARCH_SCOPE" value="File '...\synchro\synchrodatasource.class.inc.php [itop-dev]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
