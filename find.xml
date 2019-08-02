@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\synchro\synchrodatasource.class.inc.php [itop-dev]'" />
-    <option name="defaultScopeName" value="File '...\synchro\synchrodatasource.class.inc.php [itop-dev]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\synchro\synchrodatasource.class.inc.php [itop-dev]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,7 +20,6 @@
     <mask>zh.*</mask>
     <mask>zh*</mask>
     <mask>module*.php</mask>
-    <mask>*.xml</mask>
     <mask>en.*.php</mask>
     <mask>it.*.php</mask>
     <mask>pt_br.*.php</mask>
@@ -28,5 +28,6 @@
     <mask>*.css</mask>
     <mask>*EXCLUDE*</mask>
     <mask>*dict*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
