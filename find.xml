@@ -1,0 +1,32 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>model.*.php</mask>
+    <mask>*.js</mask>
+    <mask>license.*.xml</mask>
+    <mask>datamodel*</mask>
+    <mask>module.*</mask>
+    <mask>zh.*</mask>
+    <mask>zh*</mask>
+    <mask>module*.php</mask>
+    <mask>en.*.php</mask>
+    <mask>it.*.php</mask>
+    <mask>pt_br.*.php</mask>
+    <mask>*.dict*.php</mask>
+    <mask>*.php</mask>
+    <mask>*.css</mask>
+    <mask>*EXCLUDE*</mask>
+    <mask>*dict*.php</mask>
+    <mask>*.xml</mask>
+  </component>
+</application>
